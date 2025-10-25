@@ -1,8 +1,6 @@
 ﻿
 using UnityEngine;
 
-namespace Tools
-{
 /// <summary>
 /// Tool to measure distances in the editor.
 /// </summary>
@@ -38,5 +36,5 @@ public class MeasuringTape : MonoBehaviour
         set => localPositionB = transform.InverseTransformPoint(value); 
     }
 }
-}
+
 

@@ -3,7 +3,6 @@ using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-
 [CustomEditor(typeof(MeasuringTape))]
 // Leave this script under the default namespace. I don't know why, but Gizmos are not
 // drawn if this script is under Editor namespace.
