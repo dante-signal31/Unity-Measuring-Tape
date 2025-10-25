@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class InstanceMeasuringTape
 {
+    // Although in the Project browser you see this package under
+    // Packages/Unity Measuring Tape, actually the real name of the folder is the one
+    // set name variable from Package.json, in my case ninja.dlab.unity-measuring-tape.
     private static readonly string _prefabPath = 
         "Packages/ninja.dlab.unity-measuring-tape/Runtime/Prefabs/MeasuringTape.prefab"; 
 
