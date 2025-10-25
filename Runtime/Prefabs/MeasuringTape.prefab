@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5279904402734886440}
   - component: {fileID: 5833883669815518374}
   m_Layer: 0
-  m_Name: MeasureTape
+  m_Name: MeasuringTape
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
