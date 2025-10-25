@@ -6,7 +6,7 @@ using UnityEngine;
 public class InstanceMeasuringTape
 {
     private static readonly string _prefabPath = 
-        "Packages/Unity Measuring Tape/Runtime/Prefabs/MeasuringTape.prefab"; 
+        "Packages/ninja.dlab.unity-measuring-tape/Runtime/Prefabs/MeasuringTape.prefab"; 
 
     [MenuItem("Tools/Add measure tape")] 
     public static void InstanceTape()
