@@ -8,7 +8,9 @@
 
 A Unity tool to measure distances in level scenes.
 
-![Unity measuring tape](Screenshots/MeasuringTape.png)
+<p align="center">
+  <img src="Screenshots/MeasuringTape.png" alt="Unity measuring tape">
+</p>
 
 By default, Unity editor lacks a built-in tool to measure distances. There are 
 plenty of options at the Unity Assets Store, but they are paid ones. With this
@@ -32,7 +34,9 @@ the inspector, where they can be edited too. If you edit them at the inspector,
 the tape ends will be updated accordingly. Remember that you are editing 
 positions relative to measuring tape root transform.
 
-![Unity measuring tape inspector](Screenshots/MeasuringTapeInspector.png)
+<p align="center">
+  <img src="Screenshots/MeasuringTapeInspector.png" alt="Unity measuring tape inspector">
+</p>
 
 As a convenience, the tool inspector shows the tape ends global positions as 
 read-only fields under those of the relative position fields.
