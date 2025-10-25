@@ -1,8 +1,0 @@
-﻿{
-  "name": "ninja.dlab.unity-measuring-tape",
-  "version": "1.0.0",
-  "url" : "https://github.com/dante-signal31/Unity-Measuring-Tape",
-  "displayName": "Unity Measuring Tape",
-  "description": "A tool to measure distances in level scenes.",
-  "author": { "name": "Dante Signal31"}
-}
