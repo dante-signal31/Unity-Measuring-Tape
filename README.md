@@ -83,4 +83,4 @@ Author: Dante Signal31
 
 e-mail: dante.signal31@gmail.com
 
-Follow me on X: ![@dante_signal31](https://x.com/dante_signal31)
+Follow me on X: [@dante_signal31](https://x.com/dante_signal31)
