@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 [CustomEditor(typeof(MeasuringTape))]
 // Leave this script under the default namespace. I don't know why, but Gizmos are not
 // drawn if this script is under Editor namespace.
-public class DrawMeasuringTape : UnityEditor.Editor
+public class DrawMeasuringTape : Editor
 {
     private SerializedProperty _localPositionA;
     private SerializedProperty _localPositionB;
