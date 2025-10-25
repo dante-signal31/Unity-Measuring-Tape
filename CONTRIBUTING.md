@@ -64,4 +64,4 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: The rpmsign thanks you :sparkles:.
+Congratulations :tada::tada: The Unity-Measuring-Tape thanks you :sparkles:.
