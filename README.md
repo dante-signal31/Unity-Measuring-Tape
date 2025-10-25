@@ -18,10 +18,11 @@ tool I want to offer a free and open-source alternative.
 
 ## Usage
 
-The most straightforward way to use the tool is dragging the provided prefab into
-your scene hierarchy. Then, you can move the entire tape dragging its transform, or 
-you can drag either of its ends. A line will be drawn between those ends, displaying
- the measured distance near its center.
+The most straightforward way to use the tool is clicking "Tools->Add measure tape" 
+at the main menu bar. A measuring tape GameObject will be added to scene hierarchy.
+Then, you can move the entire tape dragging its transform, or you can drag 
+either of its ends. A line will be drawn between those ends, displaying the 
+measured distance near its center.
 
 Provided prefab is only an empty transform with this tool script attached. You
 can use the tool script as a component of your own prefabs. Just be aware that 
@@ -42,10 +43,6 @@ As a convenience, the tool inspector shows the tape ends global positions as
 read-only fields under those of the relative position fields.
 
 ## Configuration
-
-The tool script comes with default values hardcoded. If you want to change 
-those default values, you can change them both at the code level or at the 
-prefab level.
 
 As it was said before, a tool script lets you set the relative positions of
 tape ends. Apart from that, every other configuration field refers to visual
@@ -74,12 +71,22 @@ negative values to place the text at the other side of the tape.
 
 ## Install
 
-You can download the Assets folder of this repository and drag it over your own
-Assets folder. Remember to keep scripts in their proper folders: MonoBehaviour
- script in the Scripts folder and CustomEditor script in the Editor folder.
+The easiest way to install this package is through Unity Package Manager. Open 
+it clicking "Window-> Package Management-> Package Manager". Then, click at the 
+plus icon at the top left corner of the window and select "Add package from git 
+URL...". In the upcoming field, paste the cloning URL of this repository.
 
-You may download also the Unity package provided at the Releases section of this 
-repository and drag it into your Unity editor.
+<p align="center">
+  <img src="Screenshots/PackageManagerGIT.png" alt="Unity package manager">
+</p>
+
+Wait until installation finishes and you will find the entry, in the "Tools" 
+menu, to create a measuring tape.
+
+This installation method has the added advantage of being able to update the 
+tool to the latest version. When you know that a new version is available, 
+you can click on the "Update" button in the Package Manager window and the tool 
+will be updated.
 
 ## Feedback
 
