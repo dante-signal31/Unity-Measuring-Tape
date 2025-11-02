@@ -1,4 +1,3 @@
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dante-signal31/Unity-Measuring-Tape)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![GitHub issues](https://img.shields.io/github/issues/dante-signal31/Unity-Measuring-Tape)](https://github.com/dante-signal31/Unity-Measuring-Tape/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dante-signal31/Unity-Measuring-Tape)](https://github.com/dante-signal31/Unity-Measuring-Tape/commits/main)
