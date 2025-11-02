@@ -87,6 +87,11 @@ tool to the latest version. When you know that a new version is available,
 you can click on the "Update" button in the Package Manager window and the tool 
 will be updated.
 
+## How it is done
+
+If you want to learn how this tool works, maybe to implement your own one, I've
+explained everything in [an article at my blog](https://www.dlab.ninja/2025/10/implementation-of-rule-to-measure.html).
+
 ## Feedback
 
 Author: Dante Signal31 
